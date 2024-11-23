@@ -76,12 +76,12 @@ Give a ⭐️ if this project helped you!
 ---
 
 ### 📸 Screenshots
-[Include screenshots of your application]
+![image](https://github.com/user-attachments/assets/3422b865-1f15-40c6-bceb-fed99a1e69ba)
+
 
 ### 🔜 Future Improvements
 - Add more customization options
 - Implement dark mode
 - Create server-side generation
 - Add QR code tracking
-```
 
