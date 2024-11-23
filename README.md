@@ -26,7 +26,7 @@ A high-quality, user-friendly web application that allows users to generate cust
 ### Steps
 1. Clone the repository
 ```bash
-git clone https://github.com/SONUVERMA11/QR-Code-Generator.git
+https://github.com/SONUVERMA11/QR-GENERATOR.git
 ```
 
 2. Navigate to project directory
